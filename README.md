@@ -2,8 +2,7 @@
 # Servo Tester
 
 A simple standalone circuit for testing hobby servo motors by generating an adjustable PWM signal, without needing a microcontroller.
-
-![3D View](images/3d-view.png)
+https://github.com/Manideep136/Servo-Tester/blob/main/sero%20tester/SERVO/TOP.png
 
 ## Overview
 
@@ -25,11 +24,11 @@ This circuit generates a variable-width PWM pulse (typically ~50Hz, 1ms–2ms pu
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+https://github.com/Manideep136/Servo-Tester/blob/main/sero%20tester/SERVO/schematic.png
 
 ## PCB Layout
 
-![PCB Layout](images/pcb-layout.png)
+https://github.com/Manideep136/Servo-Tester/blob/main/sero%20tester/SERVO/LAYOUT.png
 
 ## Files
 

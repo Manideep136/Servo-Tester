@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'D:\kicad\sero tester\sero tester-F_Cu.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-B_Cu.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-F_Paste.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-B_Paste.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-F_Mask.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-B_Mask.gbr'.
+Plotted to 'D:\kicad\sero tester\sero tester-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\sero tester\sero tester-job.gbrjob'.
+Info: Done.
